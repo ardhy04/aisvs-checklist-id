@@ -6,7 +6,7 @@ Checklist verifikasi keamanan aplikasi AI berdasarkan OWASP AISVS v1.01. Reposit
 
 - [Checklist Excel](OWASP-AISVS-v1.01-Checklist-ID.xlsx) memuat 282 kontrol AISVS dan 20 item verifikasi pelengkap.
 - [Laporan review](Hasil-Review-AISVS-v1.01.md) mencatat pemetaan sumber, temuan, perbaikan, dan hasil verifikasi ulang.
-- [Presentasi PDF v1.02](Presentasi-Checklist-AISVS-v1.02-ID.pdf) adalah versi presentasi terbaru. Checklist Excel dan laporan review di repositori ini menggunakan AISVS v1.01.
+- [Presentasi PDF](Presentasi-Checklist-AISVS-v1.01-ID.pdf) memperkenalkan cara memakai checklist OWASP AISVS v1.01 dengan contoh chatbot internal.
 
 ## Cara menggunakan checklist
 
